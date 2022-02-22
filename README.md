@@ -1,8 +1,7 @@
 # Red-Vs.-Blue-Team-Project
-Red Team vs. Blue Team scenario in which you I played the role of both pentester and SOC analyst.
+Red Team vs. Blue Team scenario in which I played the role of both pentester and SOC analyst.
 
-
-## Unit  README: Red Vs. Blue Team Project 
+ 
 
 ### Unit Description
 
